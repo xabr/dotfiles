@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = x.briglmeier@hotmail.de
+	name = Xaver Briglmeier
